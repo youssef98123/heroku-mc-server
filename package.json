@@ -1,0 +1,12 @@
+{
+  "name": "thing",
+  "version": "1.1.0",
+  "description": "descriptonwda",
+  "main": "main.js",
+  "author": "Bruce",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mysql": "^2.18.1",
+    "pg": "^8.5.1"
+  }
+}
