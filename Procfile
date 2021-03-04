@@ -1,2 +1,2 @@
 web: python3 main.py
-web: node setup.js
+worker: node setup.js
